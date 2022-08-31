@@ -8,6 +8,6 @@ void main(){
 }
 int func(a){
     int e;
-    e=a~/4;
+    e=a%3;
     return e;
 }
