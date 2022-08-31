@@ -5,5 +5,5 @@ void main() {
 print (func(3,2));    
 }
 int func (r,t){
-return r~/t,    
+return r~/t;    
 }
